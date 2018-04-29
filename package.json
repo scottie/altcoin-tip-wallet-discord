@@ -1,0 +1,39 @@
+{
+  "name": "altcoin-wallet-tip-discord-bot",
+  "version": "1.0.0",
+  "description": "Fun Wallet / Tip bot used with Alt Coin",
+  "main": "App.js",
+  "scripts": {
+    "start": "forever App.js",
+    "dev": "nodemon",
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "crypto",
+    "altcoin",
+    "bot",
+    "tip",
+    "discord"
+  ],
+  "author": "Scott Lindh <scottlindh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/webhooks": "^3.1.0",
+    "casperjs": "^1.1.4",
+    "circular-json": "^0.5.1",
+    "coind-client": "0.0.1",
+    "discord-anti-spam": "^1.1.1",
+    "discord.js": "^11.3.0",
+    "discordjs-embed-converter": "^1.2.2",
+    "discordv8": "^8.4.2",
+    "externalip": "^1.0.2",
+    "get-twitter-bearer-token": "^1.0.0",
+    "lodash": "^4.17.5",
+    "phridge": "^2.0.0",
+    "request": "^2.83.0",
+    "selenium-standalone": "^6.12.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "twitter": "^1.7.1",
+    "wd": "^1.5.0"
+  }
+}
