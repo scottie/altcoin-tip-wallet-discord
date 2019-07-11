@@ -28,7 +28,7 @@
     "discordv8": "^8.4.2",
     "externalip": "^1.0.2",
     "get-twitter-bearer-token": "^1.0.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.12",
     "phridge": "^2.0.0",
     "request": "^2.83.0",
     "selenium-standalone": "^6.12.0",
