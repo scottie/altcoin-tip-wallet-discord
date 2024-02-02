@@ -30,7 +30,7 @@
     "get-twitter-bearer-token": "^1.0.0",
     "lodash": "^4.17.5",
     "phridge": "^2.0.0",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "selenium-standalone": "^6.12.0",
     "selenium-webdriver": "^4.0.0-alpha.1",
     "twitter": "^1.7.1",
